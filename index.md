@@ -11,7 +11,7 @@
 ③ブラウザの左矢印で戻ります
 
 ![Image of Excel_Pic](/images/excel_pic.png)
-[**Download Excel_Pic.xlsx**](https://github.com/eggman108/Excel_Pic/releases)
+[**Download Excel_Pic.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic.xlsx)
 
 ## デジタル書道
 
