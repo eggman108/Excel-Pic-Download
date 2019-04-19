@@ -1,17 +1,13 @@
 # Welcome to Digital Tama Store
-
-## Excel絵
-### ダウンロード方法
+## Excel絵 ダウンロード方法
 ①赤丸で囲ったテキストをクリックするとダウンロード画面に変わります。
-
-![Image of hd4](/images/hd4.png/)
+![Image of hd3](/images/hd3.png/)
 
 ②ダウンロード画面の赤丸で囲ったテキストをクリックするとダウンロードされます。
 
-![Image of hd5](/images/hd5.png/)
-
 ③ブラウザの左矢印で戻ります
 
+## Excel絵
 ![Image of Excel_Pic](/images/excel_pic.png)
 [**Download Excel_Pic.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic.xlsx)
 
