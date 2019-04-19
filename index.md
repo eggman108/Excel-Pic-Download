@@ -75,15 +75,15 @@ BS時代劇「小吉の女房」で勝海舟の父である小吉が隠居後に
 
 ③ブラウザの左矢印で戻ります
 
-![Image of PL-VALU for Excel](/pl-valu.png)
+![Image of PL-VALU for Excel](/images/pl-valu.png)
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ### Stop The Hiccup (Beta) for Android
 
-![Image of Stop The Hiccup](/sth.png)
+![Image of Stop The Hiccup](/images/sth.png)
 [**Download Stop-The-Hiccup.apk**](https://github.com/eggman108/Stop-The-Hiccup/releases)
 
 ### Sirent Camera (Beta) for Android
 
-![Image of Sirent Camera](/camera.png/)
+![Image of Sirent Camera](/images/camera.png/)
 [**Download Sirent-Camera.apk**](https://github.com/eggman108/Sirent-Camera/releases)
