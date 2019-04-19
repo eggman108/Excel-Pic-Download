@@ -1,11 +1,9 @@
 # Welcome to Digital Tama Store
 ## Excel絵 ダウンロード方法
 ①赤丸で囲ったテキストをクリックするとダウンロード画面に変わります。
-![Image of hd3](/images/hd3.png/)
-
 ②ダウンロード画面の赤丸で囲ったテキストをクリックするとダウンロードされます。
-
 ③ブラウザの左矢印で戻ります
+![Image of hd3](/images/hd3.png/)
 
 ## Excel絵
 ![Image of Excel_Pic](/images/excel_pic.png)
