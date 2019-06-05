@@ -87,7 +87,7 @@ BS時代劇「小吉の女房」で勝海舟の父である小吉が隠居後に
 ③ブラウザの左矢印で戻ります
 
 ![Image of PL-VALU for Excel](/images/pl-valu.png)
-[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
+[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/blob/master/pl-valu.xlsx)
 
 ### Stop The Hiccup (Beta) for Android
 
