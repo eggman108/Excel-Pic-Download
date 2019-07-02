@@ -5,7 +5,7 @@
 ②赤丸で囲ったダウンロードボタンをクリックするとダウンロードされます。
 
 ③ブラウザの左矢印で戻ります
-![Image of hd3](/images/hd3.png/)
+![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
 #2 モナリザ/浮世絵
