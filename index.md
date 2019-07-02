@@ -10,15 +10,15 @@
 ## Excel絵
 #2 浮世絵/モナリザ
 
-![Image of Excel_Pic2](/images/excel_pic2.png)
-
 [**Download Excel_Pic2.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic2.xlsx)
+
+![Image of Excel_Pic2](/images/excel_pic2.png)
 
 #1 ゲバラ福笑い/峰不二子ぬり絵他
 
-![Image of Excel_Pic](/images/excel_pic.png)
-
 [**Download Excel_Pic.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic.xlsx)
+
+![Image of Excel_Pic](/images/excel_pic.png)
 
 ## デジタル書道
 
