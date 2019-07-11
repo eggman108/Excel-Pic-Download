@@ -101,9 +101,9 @@ BS時代劇「小吉の女房」で勝海舟の父である小吉が隠居後に
 ### Stop The Hiccup (Beta) for Android
 
 ![Image of Stop The Hiccup](/images/sth.png)
-[**Download Stop-The-Hiccup.apk**](https://github.com/eggman108/Stop-The-Hiccup/releases)
+[Download Stop-The-Hiccup.apk](https://github.com/eggman108/Stop-The-Hiccup/releases/tag/v0.1-beta.1)
 
 ### Sirent Camera (Beta) for Android
 
 ![Image of Sirent Camera](/images/camera.png/)
-[**Download Sirent-Camera.apk**](https://github.com/eggman108/Sirent-Camera/releases)
+[Download Sirent-Camera.apk](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
