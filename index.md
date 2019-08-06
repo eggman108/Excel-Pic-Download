@@ -10,7 +10,7 @@
 ## Excel絵
 #3 ゴッホ/フェルメール/マリリン
 
-[**Download Excel_Pic3.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic3.xlsx)
+[**Download Excel_Pic3.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/3/Excel_Pic3.xlsx)
 
 ![Image of Excel_Pic3](/images/excel_pic3.png)
 
