@@ -1,4 +1,4 @@
-# Welcome to Digital Tama Store
+# Welcome to Valuer only site
 ## ダウンロード方法
 ①赤丸で囲ったテキストをクリックするとダウンロード画面に変わります。
 
@@ -8,6 +8,12 @@
 ![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
+#3 ゴッホ/フェルメール/マリリン
+
+[**Download Excel_Pic3.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic3.xlsx)
+
+![Image of Excel_Pic3](/images/excel_pic3.png)
+
 #2 モナリザ/浮世絵
 
 [**Download Excel_Pic2.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic2.xlsx)
