@@ -8,6 +8,12 @@
 ![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
+#4 金鳥/鳥と魚
+
+[**Download Excel_Pic4.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/4/Excel_Pic4.xlsx)
+
+![Image of Excel_Pic4](/images/excel_pic4.png)
+
 #3 ゴッホ/フェルメール/マリリン
 
 [**Download Excel_Pic3.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/3/Excel_Pic3.xlsx)
