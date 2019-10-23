@@ -8,6 +8,12 @@
 ![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
+#5 コンビニ/牛丼店
+
+[**Download Excel_Pic5.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/5/Excel_Pic5.xlsx)
+
+![Image of Excel_Pic5](/images/excel_pic5.png)
+
 #4 金鳥/鳥と魚
 
 [**Download Excel_Pic4.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/4/Excel_Pic4.xlsx)
