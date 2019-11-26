@@ -8,6 +8,12 @@
 ![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
+#6 ゴッホ・冬
+
+[**Download Excel_Pic6.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/6/Excel_Pic6.xlsx)
+
+![Image of Excel_Pic6](/images/excel_pic6.png)
+
 #5 コンビニ/牛丼店
 
 [**Download Excel_Pic5.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/5/Excel_Pic5.xlsx)
