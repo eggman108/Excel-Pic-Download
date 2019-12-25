@@ -114,16 +114,12 @@ BS時代劇「小吉の女房」で勝海舟の父である小吉が隠居後に
 ## 損益計算書 for VALU Excel テンプレート
 ### ダウンロード方法
 
-①赤丸で囲ったテキストをクリックするとダウンロード画面に変わります。
-
-②ダウンロード画面の赤丸で囲ったテキストをクリックするとダウンロードされます。
+●赤丸で囲ったテキストをクリックするとダウンロードされます
 
 ![Image of hd2](/images/hd2.png/)
 
-③ブラウザの左矢印で戻ります
-
 ![Image of PL-VALU for Excel](/images/pl-valu.png)
-[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/blob/master/pl-valu.xlsx)
+[**Download pl-valu.xlsx**](/excel/pl-valu.xlsx)
 
 ### Stop The Hiccup (Beta) for Android
 
