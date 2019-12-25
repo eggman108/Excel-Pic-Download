@@ -116,7 +116,7 @@ BS時代劇「小吉の女房」で勝海舟の父である小吉が隠居後に
 
 ●赤丸で囲ったテキストをクリックするとダウンロードされます
 
-![Image of hd2](/images/hd2.png/)
+![Image of hd6](/images/hd6.png/)
 
 ![Image of PL-VALU for Excel](/images/pl-valu.png)
 [**Download pl-valu.xlsx**](/excel/pl-valu.xlsx)
