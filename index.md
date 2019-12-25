@@ -8,6 +8,12 @@
 ![Image of hd4](/images/hd4.png/)
 
 ## Excel絵
+#7 モナリザサンタ
+
+[**Download Excel_Pic7.xlsx**](/excel/Excel_Pic7.xlsx)
+
+![Image of Excel_Pic7](/images/excel_pic7.png)
+
 #6 ゴッホ・冬
 
 [**Download Excel_Pic6.xlsx**](/excel/Excel_Pic6.xlsx)
@@ -16,31 +22,31 @@
 
 #5 コンビニ/牛丼店
 
-[**Download Excel_Pic5.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/5/Excel_Pic5.xlsx)
+[**Download Excel_Pic5.xlsx**](/excel/Excel_Pic5.xlsx)
 
 ![Image of Excel_Pic5](/images/excel_pic5.png)
 
 #4 金鳥/鳥と魚
 
-[**Download Excel_Pic4.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/4/Excel_Pic4.xlsx)
+[**Download Excel_Pic4.xlsx**](/excel/Excel_Pic4.xlsx)
 
 ![Image of Excel_Pic4](/images/excel_pic4.png)
 
 #3 ゴッホ/フェルメール/マリリン
 
-[**Download Excel_Pic3.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/3/Excel_Pic3.xlsx)
+[**Download Excel_Pic3.xlsx**](/excel/Excel_Pic3.xlsx)
 
 ![Image of Excel_Pic3](/images/excel_pic3.png)
 
 #2 モナリザ/浮世絵
 
-[**Download Excel_Pic2.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic2.xlsx)
+[**Download Excel_Pic2.xlsx**](/excel/Excel_Pic2.xlsx)
 
 ![Image of Excel_Pic2](/images/excel_pic2.png)
 
 #1 ゲバラ福笑い/峰不二子ぬり絵他
 
-[**Download Excel_Pic.xlsx**](https://github.com/eggman108/Excel_Pic/blob/master/Excel_Pic.xlsx)
+[**Download Excel_Pic.xlsx**](/excel/Excel_Pic.xlsx)
 
 ![Image of Excel_Pic](/images/excel_pic.png)
 
