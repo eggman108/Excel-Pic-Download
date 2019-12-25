@@ -10,7 +10,7 @@
 ## Excel絵
 #6 ゴッホ・冬
 
-[**Download Excel_Pic6.xlsx**](https://github.com/eggman108/valuer-only-xp/blob/master/x/6/Excel_Pic6.xlsx)
+[**Download Excel_Pic6.xlsx**](/excel/Excel_Pic6.xlsx)
 
 ![Image of Excel_Pic6](/images/excel_pic6.png)
 
